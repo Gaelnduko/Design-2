@@ -32,9 +32,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // You can randomise responses if you like
     const responses = [
+        "F caaaaaaaaaaawwwww F",
       "Gael has got your message 💫",
-      "I’m on it, hang tight ⚡",
-      "Got your message, love 💬",
+      "before i reply your question did you shower today?",
+      "Before i reply your question just know i know where you at rn😏",
       "Alright, I see what you mean 👀",
       "Noted, innit 😎"
     ];
