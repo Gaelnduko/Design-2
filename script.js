@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "Gael has got your message 💫",
       "before i reply your question did you shower today?",
       "Before i reply your question just know i know where you at rn😏",
-      "Alright, I see what you mean 👀",
+      "kwendaaaaaaaaaa happy",
       "Noted, innit 😎"
     ];
     gaelResponse.textContent =
